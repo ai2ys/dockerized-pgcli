@@ -1,4 +1,4 @@
-# dockerizsed-pgcli
+# dockerized-pgcli
 Running pgcli in a Docker container.
 
 
