@@ -15,3 +15,6 @@ Using `docker compose` with the [docker-compose.yml](./docker-compose.yml) file:
 $ docker compose run --rm pgcli
 pgcli:/# 
 ```
+
+A `bash` gets started and `pgcli` can get used from there.
+
