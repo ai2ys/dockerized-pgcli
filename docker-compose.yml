@@ -1,0 +1,8 @@
+version: '3.9'
+services:
+  pgcli:
+    image: ai2ys/dockerized-pgcli:4.0.1
+    build: .
+    container_name: pgcli
+    hostname: pgcli
+    
