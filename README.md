@@ -1,6 +1,9 @@
 # dockerized-pgcli
 Running pgcli in a Docker container.
 
+The Docker image is available ob Docker Hub:
+https://hub.docker.com/r/ai2ys/dockerized-pgcli
+
 
 Using `docker run`:
 
